@@ -68,7 +68,7 @@
 				"header": [],
 				"body": {
 					"mode": "raw",
-					"raw": "{\n\t\"username\":\"Ammad\",\n    \"password\":\"12345678\",\n    \"role\":\"Admin\"\n}",
+					"raw": "{\n\t\"username\":\"Admin\",\n    \"password\":\"12345678\",\n    \"role\":\"Admin\"\n}",
 					"options": {
 						"raw": {
 							"language": "json"
